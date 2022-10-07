@@ -1,1 +1,1 @@
-# aptos-tokenlist
+# aptos-coinlist
