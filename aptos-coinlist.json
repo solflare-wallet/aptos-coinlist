@@ -44,34 +44,6 @@
      },
      {
         "chainId":33,
-        "name":"Bitcoin",
-        "symbol":"BTC",
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"bitcoin"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"Tether",
-        "symbol":"USDT",
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-        "decimals":6,
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"tether"
-        }
-     },
-     {
-        "chainId":33,
         "name":"Tether",
         "symbol":"USDT",
         "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
@@ -203,34 +175,6 @@
         "tags":[
            
         ]
-     },
-     {
-        "chainId":2,
-        "name":"Bitcoin",
-        "symbol":"BTC",
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"bitcoin"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"Tether",
-        "symbol":"USDT",
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-        "decimals":6,
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"tether"
-        }
      },
      {
         "chainId":2,
