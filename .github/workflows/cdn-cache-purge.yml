@@ -2,10 +2,10 @@ name: Purge JsDelvir CDN Cache
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [master]
 
 jobs:
-  build:
+  purge:
     runs-on: ubuntu-latest
 
     steps:
