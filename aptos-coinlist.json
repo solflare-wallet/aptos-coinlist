@@ -34,7 +34,7 @@
      {
         "chainId":33,
         "address":"0x1::aptos_coin::AptosCoin",
-        "symbol":"APTOS",
+        "symbol":"APT",
         "name":"Aptos Coin",
         "decimals":8,
         "logoURI":"https://static-cdn.risewallet.io/coin/APT.png",
@@ -169,7 +169,7 @@
         "chainId":2,
         "address":"0x1::aptos_coin::AptosCoin",
         "symbol":"APT",
-        "name": "Aptos",
+        "name": "Aptos Coin",
         "decimals":8,
         "logoURI":"https://static-cdn.risewallet.io/coin/APT.png",
         "tags":[
