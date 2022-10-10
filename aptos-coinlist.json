@@ -1,275 +1,239 @@
 {
-  "name":"Aptos Coin List",
-  "timestamp":"2022-10-07T10:36:33.817Z",
-  "logoURI":"https://static-cdn.risewallet.io/coin/APT.png",
-  "coinlist":[
-     {
-        "chainId":33,
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
-        "symbol":"BTC",
-        "name":"Bitcoin",
-        "decimals":8,
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"bitcoin"
-        }
-     },
-     {
-        "chainId":33,
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-        "symbol":"USDT",
-        "name":"Tether",
-        "decimals":6,
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"tether"
-        }
-     },
-     {
-        "chainId":33,
-        "address":"0x1::aptos_coin::AptosCoin",
-        "symbol":"APT",
-        "name":"Aptos Coin",
-        "decimals":8,
-        "logoURI":"https://static-cdn.risewallet.io/coin/APT.png",
-        "tags":[
-           
-        ]
-     },
-     {
-        "chainId":33,
-        "name":"Tether",
-        "symbol":"USDT",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "tags":[
-           
-        ],
-        "decimals":8,
-        "extensions":{
-           "coingeckoId":"tether"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"USD Coin",
-        "symbol":"USDC",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDC",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"usd-coin"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"Solana",
-        "symbol":"SOL",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetSOL",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
-        "decimals":8,
-        "extensions":{
-           "coingeckoId":"solana"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"Bitcoin",
-        "symbol":"BTC",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBTC",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"bitcoin"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"DAI",
-        "symbol":"DAI",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetDAI",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"dai"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"BNB",
-        "symbol":"BNB",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBNB",
-        "logoURI":"https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"binancecoin"
-        }
-     },
-     {
-        "chainId":33,
-        "name":"Ethereum",
-        "symbol":"ETH",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetETH",
-        "logoURI":"https://assets.coingecko.com/coins/images/279/large/ethereum.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"ethereum"
-        }
-     },
-     {
-        "chainId":2,
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
-        "symbol":"BTC",
-        "name":"Bitcoin",
-        "decimals":8,
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"bitcoin"
-        }
-     },
-     {
-        "chainId":2,
-        "address":"0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
-        "symbol":"USDT",
-        "name":"Tether",
-        "decimals":6,
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"tether"
-        }
-     },
-     {
-        "chainId":2,
-        "address":"0x1::aptos_coin::AptosCoin",
-        "symbol":"APT",
-        "name": "Aptos Coin",
-        "decimals":8,
-        "logoURI":"https://static-cdn.risewallet.io/coin/APT.png",
-        "tags":[
-           
-        ]
-     },
-     {
-        "chainId":2,
-        "name":"Tether",
-        "symbol":"USDT",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
-        "tags":[
-           
-        ],
-        "decimals":8,
-        "extensions":{
-           "coingeckoId":"tether"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"USD Coin",
-        "symbol":"USDC",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDC",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"usd-coin"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"Solana",
-        "symbol":"SOL",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetSOL",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
-        "decimals":8,
-        "extensions":{
-           "coingeckoId":"solana"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"Bitcoin",
-        "symbol":"BTC",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBTC",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"bitcoin"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"DAI",
-        "symbol":"DAI",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetDAI",
-        "logoURI":"https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"dai"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"BNB",
-        "symbol":"BNB",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBNB",
-        "logoURI":"https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"binancecoin"
-        }
-     },
-     {
-        "chainId":2,
-        "name":"Ethereum",
-        "symbol":"ETH",
-        "address":"0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetETH",
-        "logoURI":"https://assets.coingecko.com/coins/images/279/large/ethereum.png",
-        "decimals":8,
-        "tags":[
-           
-        ],
-        "extensions":{
-           "coingeckoId":"ethereum"
-        }
-     }
+  "name": "Aptos Coin List",
+  "timestamp": "2022-10-10T10:36:33.817Z",
+  "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
+  "coinlist": [
+    {
+      "chainId": 33,
+      "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
+      "symbol": "BTC",
+      "name": "Bitcoin (Pontem)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bitcoin"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+      "symbol": "USDT",
+      "name": "Tether (Pontem)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x1::aptos_coin::AptosCoin",
+      "symbol": "APT",
+      "name": "Aptos Coin",
+      "decimals": 8,
+      "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
+      "tags": []
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
+      "symbol": "USDT",
+      "name": "Tether",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDC",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetSOL",
+      "symbol": "SOL",
+      "name": "Solana",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBTC",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bitcoin"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetDAI",
+      "symbol": "DAI",
+      "name": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBNB",
+      "symbol": "BNB",
+      "name": "BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "binancecoin"
+      }
+    },
+    {
+      "chainId": 33,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetETH",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "ethereum"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
+      "symbol": "BTC",
+      "name": "Bitcoin (Pontem)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bitcoin"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
+      "symbol": "USDT",
+      "name": "Tether (Pontem)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x1::aptos_coin::AptosCoin",
+      "symbol": "APT",
+      "name": "Aptos Coin",
+      "decimals": 8,
+      "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
+      "tags": []
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
+      "symbol": "USDT",
+      "name": "Tether",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDC",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetSOL",
+      "symbol": "SOL",
+      "name": "Solana",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "decimals": 8,
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBTC",
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bitcoin"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetDAI",
+      "symbol": "DAI",
+      "name": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBNB",
+      "symbol": "BNB",
+      "name": "BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "binancecoin"
+      }
+    },
+    {
+      "chainId": 2,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetETH",
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "ethereum"
+      }
+    }
   ]
 }
