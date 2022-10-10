@@ -168,8 +168,8 @@
      {
         "chainId":2,
         "address":"0x1::aptos_coin::AptosCoin",
-        "symbol":"APTOS",
-        "name":"Aptos Coin",
+        "symbol":"APT",
+        "name": "Aptos",
         "decimals":8,
         "logoURI":"https://static-cdn.risewallet.io/coin/APT.png",
         "tags":[
