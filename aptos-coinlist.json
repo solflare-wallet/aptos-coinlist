@@ -234,6 +234,18 @@
       "extensions": {
         "coingeckoId": "ethereum"
       }
+    },
+    {
+      "chainId": 2,
+      "address": "0xe4497a32bf4a9fd5601b27661aa0b933a923191bf403bd08669ab2468d43b379::move_coin::MoveCoin",
+      "symbol": "MOVE",
+      "name": "BlueMove Coin",
+      "logoURI": "https://ipfs.bluemove.net/uploads/Blue_Move_logo_0adf874d2c.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bluemovecoin"
+      }
     }
   ]
 }
