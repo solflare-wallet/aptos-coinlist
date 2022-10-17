@@ -234,6 +234,15 @@
       "extensions": {
         "coingeckoId": "ethereum"
       }
-    }
+    },
+    {
+      "chainId": 1,
+      "address": "0x1::aptos_coin::AptosCoin",
+      "symbol": "APT",
+      "name": "Aptos Coin",
+      "decimals": 8,
+      "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
+      "tags": []
+    },
   ]
 }
