@@ -1,6 +1,6 @@
 {
   "name": "Aptos Coin List",
-  "timestamp": "2022-10-10T10:36:33.817Z",
+  "timestamp": "2022-10-18T10:36:33.817Z",
   "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
   "coinlist": [
     {
@@ -34,7 +34,10 @@
       "name": "Aptos Coin",
       "decimals": 8,
       "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "aptos"
+      }
     },
     {
       "chainId": 34,
@@ -150,7 +153,10 @@
       "name": "Aptos Coin",
       "decimals": 8,
       "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "aptos"
+      }
     },
     {
       "chainId": 2,
@@ -242,7 +248,10 @@
       "name": "Aptos Coin",
       "decimals": 8,
       "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "aptos"
+      }
     }
   ]
 }
