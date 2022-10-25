@@ -1,6 +1,6 @@
 {
   "name": "Aptos Coin List",
-  "timestamp": "2022-10-18T10:36:33.817Z",
+  "timestamp": "2022-10-25T13:19:30.260Z",
   "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
   "coinlist": [
     {
@@ -252,6 +252,75 @@
       "extensions": {
         "coingeckoId": "aptos"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
+      "symbol": "devUSDT",
+      "name": "Devnet USDT",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BQcdHdAQW1hczDbBi9hiegXAR7A98Q9jx3X3iBBBDiq4/logo.png",
+      "tags": [],
+      "decimals": 8,
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDC",
+      "symbol": "devUSDC",
+      "name": "Devnet USDC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetSOL",
+      "symbol": "devSOL",
+      "name": "Devnet SOL",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "decimals": 8,
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBTC",
+      "symbol": "devBTC",
+      "name": "Devnet BTC",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetDAI",
+      "symbol": "devDAI",
+      "name": "Devnet DAI",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FYpdBuyAHSbdaAyD1sKkxyLWbAP8uUW9h6uvdhK74ij1/logo.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBNB",
+      "symbol": "devBNB",
+      "name": "Devnet BNB",
+      "logoURI": "https://assets.coingecko.com/coins/images/825/large/bnb-icon2_2x.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetETH",
+      "symbol": "devETH",
+      "name": "Devnet ETH",
+      "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {}
     }
   ]
 }
