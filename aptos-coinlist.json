@@ -321,6 +321,150 @@
       "decimals": 8,
       "tags": [],
       "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x407a220699982ebb514568d007938d2447d33667e4418372ffec1ddb24491b6c::coin::T",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/DAI.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "dai"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xccc9620d38c4f3991fa68a03ad98ef3735f18d04717cb75d7a1300dd8a7eed75::coin::T",
+      "symbol": "BUSD",
+      "name": "BUSD Token",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BUSD.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "binance-usd"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xae478ff7d83ed072dbc5e264250e67ef58f57c99d89b447efd8a0a2e8b2be76e::coin::T",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BTC.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "wrapped-bitcoin"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x2305dd96edd8debb5a2049be54379c74e61b37ceb54a49bd7dee4726d2a6b689::coin::T",
+      "symbol": "SUSHI",
+      "name": "SushiToken",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/SUSHI.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "sushi"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xac0c3c35d50f6ef00e3b4db6998732fe9ed6331384925fe8ec95fcd7745a9112::coin::T",
+      "symbol": "CELO",
+      "name": "Celo",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/CELO.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "celo"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5b1bbc25524d41b17a95dac402cf2f584f56400bf5cc06b53c36b331b1ec6e8f::coin::T",
+      "symbol": "WAVAX",
+      "name": "Wrapped AVAX",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/AVAX.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "avalanche-2"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x394205c024d8e932832deef4cbfc7d3bb17ff2e9dc184fa9609405c2836b94aa::coin::T",
+      "symbol": "NEAR",
+      "name": "NEAR",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/NEAR.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "near"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x6312bc0a484bc4e37013befc9949df2d7c8a78e01c6fe14a34018449d136ba86::coin::T",
+      "symbol": "WBNB",
+      "name": "Wrapped BNB",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/BNB.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "binancecoin"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xcc8a89c8dce9693d354449f1f73e60e14e347417854f029db5bc8e7454008abb::coin::T",
+      "symbol": "WETH",
+      "name": "Wrapped Ether",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/WETH.svg",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "weth"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xdd89c0e695df0692205912fb69fc290418bed0dbe6e4573d744a6d5e6bab6c13::coin::T",
+      "symbol": "SOL",
+      "name": "SOL",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/SOL.webp",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5e156f1207d0ebfa19a9eeff00d62a282278fb8719f4fab3a586a0a2c0fffbea::coin::T",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDC.svg",
+      "decimals": 6,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa2eda21a58856fda86451436513b867c97eecb4ba099da5775520e0f7492e852::coin::T",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "logoURI": "https://raw.githubusercontent.com/hippospace/aptos-coin-list/main/icons/USDT.svg",
+      "decimals": 6,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
     }
   ]
 }
