@@ -1,10 +1,10 @@
 {
   "name": "Aptos Coin List",
-  "timestamp": "2022-10-25T13:19:30.260Z",
+  "timestamp": "2022-12-09T12:38:10.689Z",
   "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
   "coinlist": [
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::BTC",
       "symbol": "BTC",
       "name": "Bitcoin (Pontem)",
@@ -16,7 +16,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x43417434fd869edee76cca2a4d2301e528a1551b1d719b75c350c3c97d15b8b9::coins::USDT",
       "symbol": "USDT",
       "name": "Tether (Pontem)",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x1::aptos_coin::AptosCoin",
       "symbol": "APT",
       "name": "Aptos Coin",
@@ -40,7 +40,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDT",
       "symbol": "USDT",
       "name": "Tether",
@@ -52,7 +52,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetUSDC",
       "symbol": "USDC",
       "name": "USD Coin",
@@ -64,7 +64,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetSOL",
       "symbol": "SOL",
       "name": "Solana",
@@ -75,7 +75,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBTC",
       "symbol": "BTC",
       "name": "Bitcoin",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetDAI",
       "symbol": "DAI",
       "name": "DAI",
@@ -99,7 +99,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetBNB",
       "symbol": "BNB",
       "name": "BNB",
@@ -111,7 +111,7 @@
       }
     },
     {
-      "chainId": 36,
+      "chainId": 39,
       "address": "0x498d8926f16eb9ca90cab1b3a26aa6f97a080b3fcbe6e83ae150b7243a00fb68::devnet_coins::DevnetETH",
       "symbol": "ETH",
       "name": "Ethereum",
