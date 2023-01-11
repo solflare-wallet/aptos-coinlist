@@ -1,6 +1,6 @@
 {
   "name": "Aptos Coin List",
-  "timestamp": "2022-12-16T10:55:33.064Z",
+  "timestamp": "2023-01-11T10:16:18.991Z",
   "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
   "coinlist": [
     {
@@ -477,6 +477,26 @@
       "extensions": {
         "coingeckoId": "doglaikacoin"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x5d410456c28307fd31439c1658b5e6b41f4ba868d63e03598c1ddb4a7b29449::asset::SeedzCoin",
+      "symbol": "SEEDZ",
+      "name": "Seedz Coin",
+      "logoURI": "https://jungle.aptosmonkeys.club/images/logo.png",
+      "decimals": 6,
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0xe9c192ff55cffab3963c695cff6dbf9dad6aff2bb5ac19a6415cad26a81860d9::mee_coin::MeeCoin",
+      "symbol": "MEE",
+      "name": "Meeiro Coin",
+      "logoURI": "https://static.meeiro.xyz/ido/meeiro/mee.png",
+      "decimals": 6,
+      "tags": [],
+      "extensions": {}
     }
   ]
 }
