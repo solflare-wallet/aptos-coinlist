@@ -471,7 +471,7 @@
       "address": "0x84edd115c901709ef28f3cb66a82264ba91bfd24789500b6fd34ab9e8888e272::coin::DLC",
       "symbol": "DLC",
       "name": "Doglaika Coin",
-      "logoURI": "https://raw.githubusercontent.com/Doglaikacoin/dlc/main/DLC.png",
+      "logoURI": "https://static-cdn.risewallet.io/coin/DLC.png",
       "decimals": 8,
       "tags": [],
       "extensions": {
@@ -494,6 +494,16 @@
       "symbol": "MEE",
       "name": "Meeiro Coin",
       "logoURI": "https://static.meeiro.xyz/ido/meeiro/mee.png",
+      "decimals": 6,
+      "tags": [],
+      "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x5c738a5dfa343bee927c39ebe85b0ceb95fdb5ee5b323c95559614f5a77c47cf::Aptoge::Aptoge",
+      "symbol": "APTOGE",
+      "name": "Aptoge",
+      "logoURI": "https://static-cdn.risewallet.io/coin/APTOGE.png",
       "decimals": 6,
       "tags": [],
       "extensions": {}
