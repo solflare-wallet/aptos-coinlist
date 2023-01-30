@@ -1,6 +1,6 @@
 {
   "name": "Aptos Coin List",
-  "timestamp": "2023-01-11T10:16:18.991Z",
+  "timestamp": "2023-01-30T13:03:08.092Z",
   "logoURI": "https://static-cdn.risewallet.io/coin/APT.png",
   "coinlist": [
     {
@@ -507,6 +507,18 @@
       "decimals": 6,
       "tags": [],
       "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT",
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
+      "logoURI": "https://tokens.pancakeswap.finance/images/aptos/0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "pancakeswap-token"
+      }
     }
   ]
 }
