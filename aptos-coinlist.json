@@ -519,6 +519,16 @@
       "extensions": {
         "coingeckoId": "pancakeswap-token"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0x7c0322595a73b3fc53bb166f5783470afeb1ed9f46d1176db62139991505dc61::abel_coin::AbelCoin",
+      "symbol": "ABEL",
+      "name": "AbelCoin",
+      "logoURI": "https://www.abelfinance.xyz/img/ABEL.e7107410.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {}
     }
   ]
 }
