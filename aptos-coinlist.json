@@ -529,6 +529,18 @@
       "decimals": 8,
       "tags": [],
       "extensions": {}
+    },
+    {
+      "chainId": 1,
+      "address": "0x27fafcc4e39daac97556af8a803dbb52bcb03f0821898dc845ac54225b9793eb::move_coin::MoveCoin",
+      "symbol": "MOVE",
+      "name": "BlueMove",
+      "logoURI": "https://bluemove.net/BlueMove_main_logo_RGB-Blue_512.png",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "bluemove"
+      }
     }
   ]
 }
