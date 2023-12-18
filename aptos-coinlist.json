@@ -540,6 +540,18 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "bluemove"
+      },
+          },
+    {
+      "chainId": 1,
+      "address": "0xc71d94c49826b7d81d740d5bfb80b001a356198ed7b8005ae24ccedff82b299c::bridge::APTS",
+      "symbol": "APTS",
+      "name": "apts coin",
+      "logoURI": "https://aptos-mainnet-api.bluemove.net/uploads/apts_logo_e01c69dffb.svg",
+      "decimals": 8,
+      "tags": [],
+      "extensions": {
+        "coingeckoId": ""
       }
     }
   ]
